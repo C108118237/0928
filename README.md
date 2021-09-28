@@ -37,3 +37,13 @@
 # 不可以往下滑喔
 
 ![不可以點喔](https://github.com/C108118237/0928/blob/main/d2fc6feb-a48e-4ff6-8cd9-689a0cb43ff5%20(1).png)
+ 
+ - [ ] todo list
+ - [x] done 1
+ - [ ] unfininshed
+ - [x] done 2 
+
+'''python
+s="Python syntax highlighting"
+print s 
+'''
