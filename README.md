@@ -1,6 +1,6 @@
 # C108118237 陳泓霖
 
-## 組員:C108118210 黃聖鈞
+## 組員:C108118210 黃聖鈞 :trollface:
 ## 組員:C108118203 陳虹汝
 ## 組員:C108118209 曾婉茜
 ## 組員:C108118224 陳俞娟
@@ -18,4 +18,6 @@
 
 [高科大](https://www.nkust.edu.tw)
 
-![狗狗](https://i.imgur.com/L5g2BNT.jpeg)
+![狗狗](https://i.imgur.com/L5g2BNT.jpeg"狗狗")
+
+
