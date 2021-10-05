@@ -43,7 +43,7 @@
  - [ ] unfininshed
  - [x] done 2 
 
-'''python
+```python
 s="Python syntax highlighting"
 print s 
-'''
+```
